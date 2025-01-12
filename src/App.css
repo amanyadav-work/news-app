@@ -1,0 +1,20 @@
+.active-nav{
+    box-shadow: inset 0px -10px 10px -11px #424242;
+    border-bottom: 2px solid rgb(18 110 240);
+    padding-bottom: 3px;
+}
+
+.visible-loader {
+    display: flex;
+    justify-content: center;
+    height: 60vh;
+    align-items: center;
+}
+.visible-loader>img{
+    display: block;
+    width: 28px;
+}
+
+.hidden-loader {
+    display: none;
+}

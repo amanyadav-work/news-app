@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Video FDA approves weight loss drug Zepbound to treat sleep apnea - ABC News",
+            "description": "ABC News’ medical correspondent Dr. Darien Sutton breaks down the latest medical headlines.",
+            "url": "https://abcnews.go.com/GMA/Wellness/video/fda-approves-weight-loss-drug-zepbound-treat-sleep-117027845",
+            "urlToImage": "https://i.abcnewsfe.com/a/a4e3bcb6-0dec-410f-b379-3ca838ff453e/241222_gma_sutton_zepbound1_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2024-12-22T14:30:44Z",
+            "content": "<ul><li>Starbucks workers and delivery drivers for Amazon centers strike before Christmas\r\n</li><li>FDA approves Zepbound for sleep apnea\r\n</li><li>Blake Lively files complaint against Justin Baldoni… [+4361 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "nj.com"
+            },
+            "author": "Lauren Sforza | NJ Advance Media for NJ.com",
+            "title": "Amtrak suspends service between Philadelphia, New York - NJ.com",
+            "description": "Trains are suspended as the region faces a blast of freezing temperatures.",
+            "url": "https://www.nj.com/weather/2024/12/amtrak-suspends-service-between-philadelphia-new-york.html",
+            "urlToImage": "https://www.nj.com/resizer/v2/M5BFYNXKVFBTZL6375GUMCCHWQ.jpg?auth=0c2b0125e1b68bb4d14fa9ee598b6092fc380a080acaac2a0bc4fa967924c081&width=1280&quality=90",
+            "publishedAt": "2024-12-22T13:51:00Z",
+            "content": "Amtrak has temporarily suspended service between Philadelphia and New York on Sunday morning amid freezing temperatures in the region.\r\nTrains are halted between the two cities due to downed overhead… [+673 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Saijel Kishan, Jeff Green",
+            "title": "‘God Bless America’ Fund Beats Political Rivals with 33% Gain - Bloomberg",
+            "description": "Most politically-focused funds underperformed S&amp;P 500 during this election year.",
+            "url": "https://www.bloomberg.com/news/articles/2024-12-22/-god-bless-america-fund-beats-political-rivals-with-33-gain",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGbrnwdra6rk/v1/1200x800.jpg",
+            "publishedAt": "2024-12-22T12:00:02Z",
+            "content": "The Donald Trump-led red wave was good for YALL.\r\nThats the ticker of the exchange-traded fund named God Bless America, which was created for God-fearing, flag-waving conservatives. The ETF returned … [+144 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "These Are the Wildest, Weirdest Stock-Market Prices We’ve Ever Seen - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/finance/stocks/these-are-the-wildest-weirdest-stock-market-prices-weve-ever-seen-2e0f8ab1",
+            "urlToImage": null,
+            "publishedAt": "2024-12-22T12:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Muskaan Sharma",
+            "title": "Man forced to give up first class seat for co-passenger's dog: 'What an absolute joke' - Hindustan Times",
+            "description": "A Delta Air Lines flyer expressed outrage after losing his first class seat to a service dog. | Trending",
+            "url": "https://www.hindustantimes.com/trending/man-forced-to-give-up-first-class-seat-for-co-passengers-dog-what-an-absolute-joke-101734866732468.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/12/22/1600x900/Untitled-147_1734867369430_1734867378660.png",
+            "publishedAt": "2024-12-22T11:43:16Z",
+            "content": "A Delta passenger was left fuming after he was forced to give up his first class seat for a fellow passenger who turned out to be a dog. In a Reddit post, the man said that he got \"downgraded for a d… [+2252 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "The Investing Cult Fueling MicroStrategy’s Ascent: ‘Have Fun Staying Poor’ - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/finance/stocks/microstrategy-growth-investor-community-7c6efd7c",
+            "urlToImage": null,
+            "publishedAt": "2024-12-22T10:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whec.com"
+            },
+            "author": "Taylor Liberti",
+            "title": "Amazon and Starbucks workers are on strike. Trump might have something to do with it - News10NBC",
+            "description": "Amazon delivery drivers and Starbucks baristas are on strike in a handful of U.S. cities as they seek to exert pressure on the two major companies to recognize them as unionized employees or to meet demands for an inaugural labor contract.The strikes that sta…",
+            "url": "https://www.whec.com/top-news/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it-3/",
+            "urlToImage": "https://www.whec.com/wp-content/uploads/2023/09/amazon.jpg",
+            "publishedAt": "2024-12-22T09:41:51Z",
+            "content": "Amazon delivery drivers and Starbucks baristas are on strike in a handful of U.S. cities as they seek to exert pressure on the two major companies to recognize them as unionized employees or to meet … [+7564 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anna Cooban, Zachary Cohen",
+            "title": "Trump wants to scrap Biden’s ban on a chunk of natural gas exports. It won’t help America’s top buyer much - CNN",
+            "description": "Donald Trump is set to overturn a ban on some US exports of liquefied natural gas in a move that may worsen the climate crisis. As for the biggest buyer of American LNG, Europe, it will have to wait till after the end of the decade to see the benefit.",
+            "url": "https://www.cnn.com/2024/12/22/business/trump-liquefied-natural-gas-ban-overturn-europe-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1245979639.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-22T09:00:00Z",
+            "content": "London/Washington, DCCNN\r\n  — \r\nPresident-elect Donald Trump is setto overturn a ban on some US exports of liquefied natural gas, or LNG, in a boon for US energy producers.\r\nBut the move is unlikely … [+7218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WOLF STREET"
+            },
+            "author": null,
+            "title": "Treasury Yield Curve Un-Inverts Entirely, as Long-Term Yields Rise while Short-Term Yields Stay Put, No Longer Pricing in Rate Cuts. Mortgage Rates back Above 7% - WOLF STREET",
+            "description": null,
+            "url": "https://wolfstreet.com/2024/12/21/treasury-yield-curve-un-inverts-entirely-as-long-term-yields-rise-while-short-term-yields-stay-put-no-longer-pricing-in-any-rate-cuts-mortgage-rates-back-above-7/",
+            "urlToImage": null,
+            "publishedAt": "2024-12-22T06:45:00Z",
+            "content": "When the Fed cut its policy rates on Wednesday by 25 basis points, it laid out a scenario of higher inflation and higher longer-run policy rates, and projected only two rate cuts in 2025, half the ra… [+3863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Anna Young",
+            "title": "Jeff Bezos to marry fiancée Lauren Sanchez in lavish $600M Aspen wedding next weekend: report - Yahoo Entertainment",
+            "description": "Bezos, 60, and his fiancé, 54, have remained mum on their wedding plans and have not yet publicly confirmed their wedding date.",
+            "url": "https://nypost.com/2024/12/21/entertainment/jeff-bezos-to-marry-fiancee-lauren-sanchez-in-lavish-600m-aspen-colorado-wedding-next-weekend-report/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/v6bSBIUG8.9Q1v9Uj87d3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ny_post_articles_869/73394f1e2b8c576f6032ab6d46b3ca8d",
+            "publishedAt": "2024-12-22T04:32:00Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nA… [+2466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoinist"
+            },
+            "author": "Scott Matherson",
+            "title": "Dogecoin Price Enters Gaussian Channel After Massive Crash, Why A 100% Jump Is Next | Bitcoinist.com - Bitcoinist",
+            "description": "Recent price action in the past two days saw the Dogecoin price breaking below supports at both $0.4 and $0.3 in quick succession to reverse.",
+            "url": "https://bitcoinist.com/dogecoin-price-gaussian-channel/",
+            "urlToImage": "https://bitcoinist.com/wp-content/uploads/2024/10/Dogecoin_e4694f.webp",
+            "publishedAt": "2024-12-22T03:30:57Z",
+            "content": "Recent price action in the past two days saw the Dogecoin price breaking below supports at both $0.4 and $0.3 in quick succession to eventually reverse after a quick break below $0.27 in the past 24 … [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Starbucks workers expand strike in US cities including New York - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/retail-consumer/starbucks-workers-expand-strike-us-cities-including-new-york-2024-12-22/",
+            "urlToImage": null,
+            "publishedAt": "2024-12-22T02:47:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Giselle Ruhiyyih Ewing",
+            "title": "Trump taps billionaire Houston Rockets owner Tilman Fertitta as Italy ambassador - POLITICO",
+            "description": "Fertitta has never held political office but is a longtime GOP donor — including to Trump’s Save America PAC.",
+            "url": "https://www.politico.com/news/2024/12/21/trump-taps-billionaire-houston-rockets-owner-tilman-fertitta-as-italy-ambassador-00195822",
+            "urlToImage": "https://static.politico.com/ca/39/221b71154e99b67d354581005f2a/trail-blazers-rockets-basketball-90225.jpg",
+            "publishedAt": "2024-12-22T02:42:22Z",
+            "content": "Donald Trump tapped Houston Rockets owner Tilman Fertitta as his pick to serve as ambassador to Italy. | Kevin M. Cox/AP\r\nDonald Trump announced Saturday that he is tapping Houston Rockets owner Tilm… [+677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-21T23:26:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Editorial Staff",
+            "title": "BTC correction ‘almost done,’ Hailey Welch speaks out, and more: Hodler’s Digest, Dec. 15 – 21 - Cointelegraph",
+            "description": "Bitcoin correction approaching a conclusion, Hawk Tuah influencer releases statement, and more: Hodlers Digest",
+            "url": "https://cointelegraph.com/magazine/bitcoin-price-correction-hawk-tuah-memecoin-bitfinex-hacker-hodlers-digest/",
+            "urlToImage": "https://s3.magazine.cointelegraph.com/magazine/wp-content/uploads/2024/12/Dijest21.12-scaled.jpg",
+            "publishedAt": "2024-12-21T23:16:22Z",
+            "content": "Haliey Welch, the influencer behind the viral Hawk Tuah video clip, has released a statement after a memecoin bearing her handle was pumped and dumped quickly after its December launch.\r\nIn a Dec. 20… [+9242 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Danny Vena",
+            "title": "Meet the Supercharged Growth Stock That's One of This Year's Biggest Winners. The Company Could Hit $50 Trillion by 2034, According to 1 World-Renowned Analyst - The Motley Fool",
+            "description": "Nvidia's long track record of innovation, strong secular tailwinds, and market leadership could drive its market cap to wild levels.",
+            "url": "https://www.fool.com/investing/2024/12/21/meet-the-supercharged-growth-stock-thats-1-of-2024/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/801686/a-printing-press-printing-a-sheet-of-100-bills.jpg",
+            "publishedAt": "2024-12-21T23:02:00Z",
+            "content": "Nvidia's long track record of innovation, strong secular tailwinds, and market leadership could drive its market cap to wild levels.James Anderson may not be a household name, but there's no denying … [+7131 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Claudia Santos",
+            "title": "20 Horrifying Dishes People Had The Audacity To Serve At A Potluck - BuzzFeed",
+            "description": "\"I told everyone not to touch it, but unfortunately, I saw the CEO himself eating from that tray...\"",
+            "url": "https://www.buzzfeed.com/claudiasantos/horrifying-dishes-served-at-potlucks",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/10/16/enhanced/8a9f10a6ac69/original-765-1733849239-2.jpg?crop=2988:1564;0,168%26downsize=1250:*",
+            "publishedAt": "2024-12-21T22:31:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Los Angeles Times",
+            "title": "Airport security stunned by ‘extremely concerning’ contents of woman’s carry-on bag - OregonLive",
+            "description": "The TSA officer opened the bag in front of the passenger and was shocked to see what was inside.",
+            "url": "https://www.oregonlive.com/travel/2024/12/airport-security-stunned-by-extremely-concerning-contents-of-womans-carry-on.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/FSXYBQWGZRHSRJZNKCZSW5Z3EU.jpg?auth=df44a1c08a56b264f0bf0c9315e1a7bce48297a2f5e3cdd69e0d885e555e1956&width=1280&quality=90",
+            "publishedAt": "2024-12-21T21:55:00Z",
+            "content": "LOS ANGELES A woman flying from Los Angeles to Philadelphia wound up on the TSAs naughty list after an officer discovered a trove of almost 90 forbidden items inside her carry-on.\r\nA Transportation S… [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Megan Liscomb",
+            "title": "\"I Haven't Paid For It Since 2020\": People Are Sharing Their Most Frugal Habits, And Some Of These Are Game-Changers - Yahoo Life",
+            "description": "\"It doesn’t even feel like frugality because I prefer it this way.\"",
+            "url": "https://www.buzzfeed.com/meganeliscomb/28-frugal-people-shared-their-favorite-money-saving-habit",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Qx36S1caOwZxkrs44KnqLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/buzzfeed_articles_778/8eab2e4db634fdae2e36b2517c30614a",
+            "publishedAt": "2024-12-21T21:31:02Z",
+            "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nR… [+7586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "The Associated Press",
+            "title": "More details released about death of AI whistleblower, age 26 - OregonLive",
+            "description": "Suchir Balaji, a former OpenAI engineer and whistleblower who helped train the artificial intelligence systems behind ChatGPT and later said he believed those practices violated copyright law, died Nov. 26 in what police said “appeared to be a suicide.\"",
+            "url": "https://www.oregonlive.com/business/2024/12/more-details-released-about-death-of-ai-whistleblower-age-26.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/3Z2CFKR2QJCHNHFV3ENVSRVUPM.jpg?auth=3211610f7810fdaffaa9b566cc57e33e1903aaf08a79fd916250756d2db71061&width=1280&quality=90",
+            "publishedAt": "2024-12-21T21:31:00Z",
+            "content": "Suchir Balaji, a former OpenAI engineer and whistleblower who helped train the artificial intelligence systems behind ChatGPT and later said he believed those practices violated copyright law, has di… [+5118 chars]"
+        }
+    ]
+}
